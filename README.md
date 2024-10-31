@@ -17,8 +17,8 @@ This project is a simple web application for creating, viewing, and deleting not
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/your-username/php-micro-mvc-framework.git
+   cd php-micro-mvc-framework
    ```
 
 2. **Install dependencies using Composer:**:
